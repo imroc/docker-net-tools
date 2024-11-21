@@ -19,7 +19,7 @@ Docker image with some useful network tools.
 ## Network Tools
 
 This image contains some useful network tools:
-- Ip and route: `ip`, `ifconfig`, `arp`.
+- Ip and route: `ip`, `ifconfig`, `arp`, `route`.
 - Network connection tool: `netstat`, `ss`.
 - Http tool: `curl`, `http`(httpie), `wget`.
 - Http benchmark tool: `wrk`, `hey`.
