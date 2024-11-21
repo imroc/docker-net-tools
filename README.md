@@ -21,11 +21,11 @@ Docker image with some useful network tools.
 This image contains some useful network tools:
 - Ip and route: `ip`, `ifconfig`, `arp`.
 - Network connection tool: `netstat`, `ss`.
-- Http tool: `curl`, `http`(httpie).
+- Http tool: `curl`, `http`(httpie), `wget`.
 - Http benchmark tool: `wrk`, `hey`.
 - Dns tool: `nslookup`, `dig`.
 - Traffic dump tool: `tcpdump`.
-- Others: `bash`, `nsenter`.
+- Others: `bash`, `nsenter`, `vim`, `vi`.
 
 ## Usage
 
